@@ -1,4 +1,4 @@
-// © 2024. shobhitDev All rights reserved.
+
 const progress = document.getElementById("progress");
 const song = document.getElementById("song");
 const controlIcon = document.getElementById("controlIcon");
@@ -138,4 +138,3 @@ var swiper = new Swiper(".swiper", {
     prevEl: ".backward",
   },
 });
-// © 2024. shobhitDev All rights reserved.
