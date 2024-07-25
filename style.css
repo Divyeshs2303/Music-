@@ -1,4 +1,3 @@
-/* © 2024. shobhitDev All rights reserved. */
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600&display=swap");
 
 :root {
@@ -183,4 +182,3 @@ body {
 .controls button:nth-child(2):is(:hover, :focus-visible) {
   transform: scale(1.25);
 }
-/* © 2024. shobhitDev All rights reserved. */
